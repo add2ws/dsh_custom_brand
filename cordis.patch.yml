@@ -1,0 +1,4 @@
+# 以 bundle 方式安装时，把本插件插进 profile 的插件树。
+- insert:
+    - id: custom-brand
+      name: '@local/dsh-plugin-brand'
